@@ -1,0 +1,6 @@
+framework module C2_iOS_MicroContainer {
+  umbrella header "C2_iOS_MicroContainer.h"
+
+  export *
+  module * { export * }
+}
